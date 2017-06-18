@@ -3,25 +3,65 @@ p {
 }
 body {
 	background-color:  white;
-	font-family: arial, sans-serif;
-	color: black;
+	font-family: "Tahoma, Geneva, sans-serif";
+	color: #293d3d;
 	text-align: center;
+	font-size: 20px;
 }
 h1 {
 	word-spacing: 3px;
 }
+h2 {
+	margin: 100px;
+}
+h5 {margin: 100px
+	font-size: 30px;
+}
 .menu {
-	background-color: #778899
+	background-color: #00cc99;
+	height: 500px;
+	padding-top: 100px;
+}
+.jobb1 {
+	margin: 100px;
+	font-size: 20px;
+}
+.jobb2 {
+	margin: 100px;
+}
+.jobb3 {
+	margin: 100px;
+}
+.jobtitle {
+	font-size: 25px;
+}
+.jobtitle2 {
+	font-size: 25px;
+}
+.jobtitle3 {
+	font-size: 30px;
+	text-align: center;
+}
+.jobtitle4 {
+	font-size: 20px;
+}
+.jobtitle5 {
+	font-size: 30px;
 }
 .rubrik {
-	font: 15px arial, sans-serif;
+	font-family: "Brush Script MT", cursive;
+	font-weight: 500px;
+	font-size: 40px;
+	color: white;
+
 }
 .profilbild {
 	border-radius: 50%;
+	align-items: ;
 }
 .profilbild {
 	width: 250px;
-	heigt: auto;
+	height: auto;
 }
 .img-circle {
 	border-radius: 50%;
@@ -30,13 +70,49 @@ h1 {
 		width:200px;
 		height: auto;
 }
+.resize3 {
+		width: 300px;
+		height: auto;
+		margin-top: 20px;
+}
+.resize4 {
+		margin-top: 35px;
+}
+.konsultjobb1 {
+	display: inline-block;
+	margin: 100px;
+	border-style: solid;
+	border-color: #00cc99;
+	border-radius: 10px;
+}
+.konsultjobb2 {
+	display: inline-block;
+	margin: 50px;
+	border-style: solid;
+	border-color: #00cc99;
+	border-radius: 10px;
+}
+.jobbeskrivning {
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.jobbeskrivning2 {
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
 .contact {
-		background-color: #778899;
+		background-color: #000000;
 		padding-top: 50px;
 		padding-bottom: 50px;
+		padding-right: 50px;
+		padding-left: 50px;
+		font-size: 20px;
+		color: white;
 }
 @media only screen and (min-width: 760px) {
 	.contact {
-		background-color: #778899;
+		background-color: #000000;
 	}	
 }
