@@ -32,6 +32,9 @@ h5 {margin: 100px
 .jobb3 {
 	margin: 100px;
 }
+.jobb4 {
+	margin: 100px;
+}
 .jobtitle {
 	font-size: 25px;
 }
@@ -43,9 +46,12 @@ h5 {margin: 100px
 	text-align: center;
 }
 .jobtitle4 {
-	font-size: 20px;
+	font-size: 30px;
 }
 .jobtitle5 {
+	font-size: 30px;
+}
+.jobtitle6 {
 	font-size: 30px;
 }
 .rubrik {
@@ -67,8 +73,9 @@ h5 {margin: 100px
 	border-radius: 50%;
 }
 .resize2 {
-		width:200px;
+		width:400px;
 		height: auto;
+		margin-top: 20px;
 }
 .resize3 {
 		width: 300px;
@@ -76,7 +83,18 @@ h5 {margin: 100px
 		margin-top: 20px;
 }
 .resize4 {
+		width: 100px;
+		height: auto;
 		margin-top: 35px;
+}
+.resize5 {
+		width: 200px;
+		height: auto;
+		margin-top: 35px;
+	}
+.resize6 {
+		width: 200px;
+		height: auto;
 }
 .konsultjobb1 {
 	display: inline-block;
